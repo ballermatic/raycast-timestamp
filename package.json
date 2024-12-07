@@ -1,17 +1,17 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
   "name": "timestamp",
-  "title": "timestamp",
-  "description": "",
+  "title": "Timestamp",
+  "description": "A simple Raycast extension which puts timestamp into clipboard. Formatted in ISO 8601 standard kebab case.",
   "icon": "extension-icon.png",
-  "author": "neil_baller",
+  "author": "nball",
   "owner": "gravyboat",
   "license": "MIT",
   "commands": [
     {
       "name": "timestamp",
-      "title": "timestamp",
-      "description": "",
+      "title": "Timestamp",
+      "description": "Puts current timestamp (ISO 8601 standard kebab case) into clipboard",
       "mode": "no-view"
     }
   ],
